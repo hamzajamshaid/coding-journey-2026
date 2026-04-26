@@ -1,5 +1,3 @@
-## LeetCode Log — 2026
-
 This repository tracks my structured LeetCode problem-solving journey with focus on patterns, consistency, and interview readiness.
 
 ## 🎯 Goal
