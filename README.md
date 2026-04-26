@@ -1,29 +1,36 @@
-# 🚀 My 2026 Coding Journey
+## LeetCode Log — 2026
 
-## 🎯 Goals (By Dec 31, 2026)
-1. **LeetCode:** 400+ problems solved
-2. **System Design:** Master 20+ concepts
-3. **Big Tech:** Secure internship/job offer
-4. **Skills:** Full-stack + AI/ML proficiency
+This repository tracks my structured LeetCode problem-solving journey with focus on patterns, consistency, and interview readiness.
 
-## 📊 Current Progress
-**Start Date:** January 15, 2026  
-**LeetCode:** 0/400 problems  
-**System Design:** 0/20 concepts  
-**Days Streak:** 1 🔥
+## 🎯 Goal
+Build strong problem-solving skills for technical interviews by mastering core DSA patterns.
 
-## 📁 Repository Structure
-- `leetcode/` - Solutions and patterns
-- `system-design/` - Architecture notes
-- `daily-logs/` - Daily progress tracking
-- `notes/` - Learning resources
-- `templates/` - Resume, cover letters
+## 📊 Progress
+- Problems Solved: 0 (updated weekly)
+- Start Date: April 2026
+- Focus: Arrays, Strings, Hashing, Stack, Sliding Window, Trees
 
-## 📅 Daily Routine
-- Morning (2h): LeetCode practice
-- Afternoon (3h): System Design/Projects
-- Evening (1h): Review + planning
-- Night: Commit progress to GitHub
+## 📁 Structure
+leetcode-log/
+  week-01.md
+  week-02.md (ongoing)
 
-## 🔥 Motivation
-"Every day of practice is a step closer to Big Tech."
+Each file contains:
+- Problem name
+- Approach summary
+- Time complexity thinking
+- Mistakes made
+
+## ⚙️ Approach
+- Solve problems daily
+- Focus on patterns, not quantity
+- Write short analysis after each solution
+- Weekly summary updates only
+
+## 🚫 What this is NOT
+- Not a code dump
+- Not daily spam commits
+- Not copy-paste solutions
+
+## 📌 Note
+This is part of a larger 2026 roadmap focused on software engineering + AI engineering roles.
